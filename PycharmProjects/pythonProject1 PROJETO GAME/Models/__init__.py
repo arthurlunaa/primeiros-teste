@@ -1,0 +1,2 @@
+class Calcular:
+    pass
